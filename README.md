@@ -1,6 +1,6 @@
 # 50 Projects in 50 Days - HTML/CSS and JavaScript
 
-> This is the main repository for all of the projects in [the course][course] by [Brad Traversy][brad] and [Florin Pop][florin]...
+> This is the main repository for all of this projects in [the course][course] by [Brad Traversy][brad] and [Florin Pop][florin]...
 
 |  #  | Project Code                          | Live Demo                                          |
 | :-: | ------------------------------------- | -------------------------------------------------- |
