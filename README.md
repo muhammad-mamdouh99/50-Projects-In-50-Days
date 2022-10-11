@@ -2,9 +2,9 @@
 
 > This is the main repository for all of the projects in [this course][course] by [Brad Traversy][brad] and [Florin Pop][florin]...
 
-|  #  | Project Code                          | Live Demo                                          |
-| :-: | ------------------------------------- | -------------------------------------------------- |
-| 01  | [Expanding Cards](./expanding-cards/) | [Live Demo](https://github.com/muhammad-mamdouh99) |
+|  #  | Project Code                          | Live Demo                                                                                 |
+| :-: | ------------------------------------- | ----------------------------------------------------------------------------------------- |
+| 01  | [Expanding Cards](./expanding-cards/) | [Live Demo](https://muhammad-mamdouh99.github.io/50-Projects-In-50-Days/expanding-cards/) |
 
 <!-- Links -->
 
